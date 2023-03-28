@@ -1,0 +1,26 @@
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.csproj.AssemblyReference.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\P_CapaDatos.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.pdb
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\P_CapaDatos.dll
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\P_CapaDatos.pdb
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\mscorlib.dll
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\System.Net.Http.dll
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\System.Net.Http.xml
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\normidna.nlp
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\normnfc.nlp
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\normnfd.nlp
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\normnfkc.nlp
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\normnfkd.nlp
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.dll
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\P_CapaDatos\bin\Debug\P_CapaDatos.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.csproj.AssemblyReference.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\P_CapaDatos\obj\Debug\P_CapaDatos.pdb

@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaNegocio\\P_CapaNegocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaDatos\\P_CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaDatos\\P_CapaDatos.csproj",
+        "projectName": "P_CapaDatos",
+        "projectPath": "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaDatos\\P_CapaDatos.csproj",
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaNegocio\\P_CapaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaNegocio\\P_CapaNegocio.csproj",
+        "projectName": "P_CapaNegocio",
+        "projectPath": "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaNegocio\\P_CapaNegocio.csproj",
+        "packagesPath": "C:\\Users\\eljho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eljho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaDatos\\P_CapaDatos.csproj": {
+                "projectPath": "C:\\Users\\eljho\\OneDrive\\Documentos\\Visual Studio 2015\\Projects\\ProyectoDesImpSisInf\\P_CapaDatos\\P_CapaDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

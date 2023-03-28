@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P_CapaDatos\P_CapaDatos.csproj" />
+    <ProjectReference Include="..\P_CapaEntidad\P_CapaEntidad.csproj" />
+  </ItemGroup>
+
+</Project>

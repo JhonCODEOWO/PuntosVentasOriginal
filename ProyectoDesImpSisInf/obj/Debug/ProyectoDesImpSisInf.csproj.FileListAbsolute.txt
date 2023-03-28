@@ -1,0 +1,154 @@
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.pdb
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.Cache
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+c:\users\eljho\onedrive\documentos\visual studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.AssemblyReference.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CoreCompileInputs.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CopyComplete
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2015\Projects\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Detalle_Venta.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Venta.resources
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.Cache
+C:\Users\Manuel\Documents\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.LoginUsuario.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.AssemblyReference.cache
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Detalle_Venta.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.LoginUsuario.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Venta.resources
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.cache
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CoreCompileInputs.cache
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.pdb
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.dll
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.dll
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.dll
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.pdb
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.pdb
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.pdb
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CopyComplete
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
+D:\ProyectoEmili-Ano\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Form1.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.AssemblyReference.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Form1.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Detalle_Venta.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.LoginUsuario.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Venta.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CoreCompileInputs.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CopyComplete
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarUsuarios.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.ConfirmaVenta.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.pdb
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.dll
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.dll
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.dll
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.pdb
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.pdb
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.pdb
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.AssemblyReference.cache
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Form1.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarUsuarios.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.ConfirmaVenta.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Detalle_Venta.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.LoginUsuario.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Venta.resources
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.cache
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CoreCompileInputs.cache
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CopyComplete
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+D:\ProyectoDesImpSisInf\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.dll
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.pdb
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.AssemblyReference.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Form1.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarUsuarios.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.ConfirmaVenta.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Detalle_Venta.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.LoginUsuario.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Venta.resources
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CoreCompileInputs.cache
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CopyComplete
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+C:\Users\eljho\OneDrive\Documentos\Visual Studio 2010\Projects\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe.config
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.exe
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\ProyectoDesImpSisInf.pdb
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.dll
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.dll
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.dll
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaEntidad.pdb
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\Prod_CapaNegocio.pdb
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\bin\Debug\P_CapaDatos.pdb
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.AssemblyReference.cache
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Form1.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Properties.Resources.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarProveedores.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.AdministrarUsuarios.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Administrar_Productos.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.ConfirmaVenta.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Detalle_Venta.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.LoginUsuario.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Pedidos.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.Ventanas_Emergentes.Venta.resources
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.GenerateResource.cache
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CoreCompileInputs.cache
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.csproj.CopyComplete
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.exe
+C:\Users\eljho\Downloads\ProyectoDesImpSisInf - V1.2\ProyectoDesImpSisInf - Original\ProyectoDesImpSisInf\obj\Debug\ProyectoDesImpSisInf.pdb
